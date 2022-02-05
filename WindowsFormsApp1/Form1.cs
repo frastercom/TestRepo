@@ -31,6 +31,7 @@ namespace WindowsFormsApp1
         {
             if (textBox1.Text == "admin" && textBox2.Text == "admin")
             {
+                //проверка
                 groupBox1.Visible = false;
                 groupBox2.Visible = true;
             }
